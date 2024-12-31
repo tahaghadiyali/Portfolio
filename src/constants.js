@@ -2,8 +2,7 @@ export const scaleFactor = 4;
 
 export const dialogueData = {
   pc: `Hi! This is my machine, It's a bit old but does the job perfectly :D 
-    Also, I'm currently working on some ml models and plan to implement some research papers by myself.
-    Here is my <a href="https://github.com/jslegenddev" target="_blank">Github</a>!`,
+    Also, I'm currently working on some ml models and plan to implement some research papers by myself.`,
   "cs-degree": `I'm a 2nd year electronics undergrad interested in ML and embedded systems, I'm currently learning and looking forward to collab and work together with people of similar interest :D`,
   "sofa-table": `That's my sofa. I like to brainstorm and overthink here when I'm not working. (I also occasionally eat here, don't tell my mom about it XD)`,
   tv: `I've like watching content centered around Astrophysics and Electronics, these are my go to channels :
